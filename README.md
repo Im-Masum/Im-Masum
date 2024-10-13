@@ -4,7 +4,7 @@
 
 💞️ I’m looking to collaborate on Frontend web developing projects.
 
-📫 How to reach me: Email, LinkedIn, Facebook, Instagram.
+📫 How to reach me: Email, LinkedIn, Facebook.
 
 ⚡ Fun fact: Educational background non-tech.
 
