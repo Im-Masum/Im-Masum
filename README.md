@@ -1,4 +1,5 @@
-👋 Hi there, 
+##👋 Hi there, 
+
 👀 I’m currently working on improving Frontend Web Development skills.
 💞️ I’m looking to collaborate on Frontend web developing projects.
 📫 How to reach me: Email, LinkedIn, Facebook, Instagram.
